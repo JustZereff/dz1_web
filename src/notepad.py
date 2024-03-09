@@ -1,6 +1,6 @@
 from collections import UserDict
 import os
-from src.address_book import Field
+from address_book import Field
 import pickle
 
 # Color text ON
